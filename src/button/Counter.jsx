@@ -5,7 +5,6 @@ export default function Counter() {
 
   function handleClick() {
     setCounter(counter + 1);
-    console.log(counter);
   }
 
   return (
